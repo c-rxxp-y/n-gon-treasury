@@ -31,8 +31,8 @@ https://github.com/kgurchiek/n-gon-multiplayer
 https://www.cornbread2100.com/n-gon-loader
 - contains every version of vanilla n-gon
 
-https://www.c-rxxp-y.github.io/n-gon-mods
-- my modded version of n-gon (no cool name yet :/
+https://www.c-rxxp-y.github.io/n-gon-enhanced
+- my modded version of n-gon
 
 https://github.com/Whyisthisnotavalable/n-scythe
 - a cool collection of melee weapons, a new field, and pherofluid gun
