@@ -39,3 +39,6 @@ https://github.com/Whyisthisnotavalable/n-scythe
 
 https://github.com/Whyisthisnotavalable/map-maker
 - a tool to aid in map creation (not sure if finished)
+
+https://github.com/thesatelliteever/ngonmodtestinggrounds
+- a smaller and newer bookmarklet mod
