@@ -4,6 +4,9 @@ A collection of n-gon related mods, links, and projects
 # website coming soon...
 
 # links
+https://n-gon-enhanced.vercel.app
+- my modded version of n-gon (most updated mod)
+
 https://github.com/landgreen/n-gon
 - main game repository
 
@@ -14,7 +17,7 @@ https://ngon.fandom.com/wiki/N-gon
 - wiki for n-gon
 
 https://3xiondev.github.io/n-gon-upgraded
-- a fun mod with new tech and mechanics (probably the most modded content out of all of them)
+- a fun mod with new tech and mechanics
 
 https://github.com/kgurchiek/n-gon-mobile
 - n-gon with mobile controls
@@ -30,9 +33,6 @@ https://github.com/kgurchiek/n-gon-multiplayer
 
 https://www.cornbread2100.com/n-gon-loader
 - contains every version of vanilla n-gon
-
-https://www.c-rxxp-y.github.io/n-gon-enhanced
-- my modded version of n-gon
 
 https://github.com/Whyisthisnotavalable/n-scythe
 - a cool collection of melee weapons, a new field, and pherofluid gun
